@@ -1,0 +1,46 @@
+#body {
+    background-image: url("images/i9.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+.p {
+    background-color: rgba(7, 6, 8, 0.904);
+    height: 55px;
+    width: 1366px;
+    position: absolute;
+    top: -17px;
+    left: 0px;
+    text-align: center;
+    max-lines: 1;
+}
+
+.text1 {
+    position: absolute;
+    color: white;
+    top: -13px;
+    left: 430px;
+    text-align: center;
+    font-size: 25px;
+    max-lines: 1;
+}
+
+.title {
+    position: absolute;
+    top: 100px;
+    left: 37%;
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 390px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 35px;
+    border-radius: 20px;
+
+   
+  
+
+    
+
+}
